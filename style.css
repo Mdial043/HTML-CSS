@@ -14,3 +14,14 @@ text-align: center;
     text-align: right;
 
 }
+
+#Contenaire{
+    text-align: justify;
+    display: flex;
+    justify-content: space-around;
+    
+}
+div section{
+    width: 500px;
+    margin-bottom: 100px;
+}
